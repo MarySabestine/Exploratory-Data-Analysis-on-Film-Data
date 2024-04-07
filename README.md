@@ -11,5 +11,8 @@ Throughout the course of this project, I expertly utilized my SQL skills to perf
 - Present findings in a clear and organized manner.
 
 # Task 1 - Data retrieval
-Connect to film database using PgAdmin
+Connect to film database using PgAdmin          |  Connect to film database
+:------------------------------------:          |  :---------------------------------:
+![](https://github.com/MarySabestine/Exploratory-Data-Analysis-on-Film-Data/blob/main/Connect%20to%20PgAdmin.png) | ![](https://github.com/MarySabestine/Exploratory-Data-Analysis-on-Film-Data/blob/main/Connect%20to%20film%20database.png)
+
 
